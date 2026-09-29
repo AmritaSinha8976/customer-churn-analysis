@@ -1,0 +1,11 @@
+feature,coefficient,odds_ratio
+Contract_Two year,-1.413,0.244
+InternetService_Fiber optic,1.222,3.395
+tenure,-1.156,0.315
+Contract_One year,-0.715,0.489
+MonthlyCharges,-0.546,0.579
+TotalCharges,0.487,1.627
+StreamingMovies_Yes,0.421,1.523
+PaymentMethod_Electronic check,0.402,1.496
+StreamingTV_Yes,0.395,1.485
+PhoneService_Yes,-0.348,0.706

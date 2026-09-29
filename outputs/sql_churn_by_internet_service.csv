@@ -1,0 +1,4 @@
+InternetService,customers,churn_rate_pct
+Fiber optic,3096,41.9
+DSL,2421,19.0
+No,1526,7.4
